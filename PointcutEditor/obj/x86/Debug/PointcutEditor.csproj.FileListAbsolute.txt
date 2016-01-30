@@ -1,0 +1,10 @@
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\PointcutEditor.frmInput.resources
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\PointcutEditor.frmPointcutEditor.resources
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\PointcutEditor\PointcutEditor\bin\Debug\PointcutEditor.exe
+C:\PointcutEditor\PointcutEditor\bin\Debug\PointcutEditor.pdb
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\PointcutEditor.Properties.Resources.resources
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\PointcutEditor.exe
+C:\PointcutEditor\PointcutEditor\obj\x86\Debug\PointcutEditor.pdb
