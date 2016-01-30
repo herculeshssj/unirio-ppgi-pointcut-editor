@@ -8,7 +8,7 @@ namespace PointcutEditor
 {
     class ReadRules
     {
-        public static string fileName = "C:\\Java\\aspect\\rules\\aobpm_extended.xml";
+        public static string fileName = "C:\\Java\\aspect\\rules\\aobpm_goal.xml";
 
         public static List<Aspect> readAspects()
         {
